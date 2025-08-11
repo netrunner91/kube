@@ -1,4 +1,4 @@
-# Nauka Kubernetes - Przewodnik krok po kroku
+# Nauka Kubernetes - Przewodnik krok po kroku ♥
 
 ## Krok 1: Instalacja niezbędnych narzędzi
 
